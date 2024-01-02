@@ -1,6 +1,6 @@
 # Macroeconomic Theory II (2nd year)
 
-This repository contains complementary material for the course Macroeconomic Theory II taught at Athens University of Economics and Business, Department of Economics.
+This repository contains complementary material for the course Macroeconomic Theory II taught at Athens University of Economics and Business, Department of Economics. (Work in progress, any suggestions and/or comments are very welcome).
 
 *Pre-requisites: Mathematics, Macroeconomic Theory II
 
