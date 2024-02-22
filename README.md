@@ -1,4 +1,4 @@
-# Macroeconomic Theory II (2nd year)
+# Macroeconomic Theory II MT2 (2nd year)
 
 This repository contains complementary material for the course Macroeconomic Theory II (MT2) taught at Athens University of Economics and Business, Department of Economics. (Work in progress, any suggestions and/or comments are very welcome).
 
