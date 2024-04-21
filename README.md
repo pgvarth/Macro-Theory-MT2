@@ -2,7 +2,7 @@
 
 This repository contains complementary material for the course Macroeconomic Theory II (MT2) taught at Athens University of Economics and Business, Department of Economics. (Work in progress, any suggestions and/or comments are very welcome).
 
-*Pre-requisites: Mathematics, Macroeconomic Theory II
+*Pre-requisites: Mathematics, Macroeconomic Theory I
 
 # Content: 
 
