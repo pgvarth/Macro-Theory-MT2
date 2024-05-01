@@ -8,5 +8,4 @@ Please read the pdf entitled Data assignment. The m-file entitled Data_Assignmen
 
 ## Dynamic backward-looking IS-LM model
 
-The pdf entitled "MT2_Num_Ass__DynamicISLM" describes the 
-
+In this numerical assig
