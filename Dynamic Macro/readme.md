@@ -3,3 +3,4 @@ This folder contains the key materials for the projects of the Dynamic Macro Gro
 
 *Pre-requisites:Macroeconomic Theory II, essential programming skills in Matlab and Python
 
+$\textbf{Software:}$ Matlab, Python
